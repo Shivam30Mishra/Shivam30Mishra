@@ -61,8 +61,6 @@ My primary focus areas:
 - Fixing bugs, improving components, and understanding system design
 - Learning professional workflows: issues, PRs, reviews, discussions
 
-> Open source is not about lines of code — it’s about understanding systems.  
-> That’s what I’m optimizing for.
 
 ---
 
