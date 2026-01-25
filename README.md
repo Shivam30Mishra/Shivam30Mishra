@@ -1,95 +1,67 @@
-# Shivam Mishra
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-🎓 Computer Science Undergraduate @ VIT (2023–2027)  
-💻 Web Developer | DSA Practitioner | Open Source Contributor  
-🌱 Focused on building **real-world systems**, not tutorial projects
+<h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
+<h3 align="center">Computer Science Student | Full Stack Developer | Problem Solver</h3>
 
----
-
-## 🧭 Overview
-
-I am a Computer Science student with hands-on experience in **modern web development** and a strong foundation in **data structures and problem-solving**.  
-Currently, I am **actively contributing to open-source projects** and improving my skills by working with **large, production-level codebases**.
-
-My primary focus areas:
-- Scalable **Frontend & Backend Development**
-- **Open Source Contribution** (GSoC-oriented)
-- Writing **clean, maintainable, and reviewable code**
+<img align="right" alt="Coding" width="520" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif"/>
 
 ---
 
-## 🔭 What I’m Currently Doing
-- Building **full-stack web applications** using React and Node.js
-- Contributing to **open-source projects** (Rocket.Chat ecosystem)
-- Strengthening **DSA & competitive programming**
-- Learning how **real-world systems are designed and maintained**
+### 👨‍💻 About Me
+- 🎓 B.Tech CSE student at **VIT**
+- 💻 Strong in **DSA, Full Stack Web Development**
+- 🌱 Currently learning **Machine Learning & Advanced Backend**
+- 🚀 Interested in **SDE / Software Engineering Internships**
+- 🧠 I focus on **logic, scalability, and clean code** — not just UI
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-- **C++** – Data Structures & Algorithms  
-- **JavaScript** – Frontend & Backend  
-- **Python** – Scripting, Data Analysis, ML fundamentals  
-- **SQL** – Relational databases  
-
-### Web & Frameworks
-- **React.js**
-- **Node.js & Express**
-- **MongoDB**
-- **MySQL**
-- **HTML5 / CSS3**
-
-### Tools
-- **Git & GitHub**
-- REST APIs
-- Linux-based development workflow
+### 💬 Ask Me About
+- Data Structures & Algorithms  
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Next.js, REST APIs  
+- Competitive Programming  
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Full-Stack Web Applications
-- Built responsive, component-based UIs using **React**
-- Implemented backend services using **Node.js & Express**
-- Worked with **MongoDB & MySQL** for data persistence
-- Focused on clean architecture and reusable components
-
-### 🔹 Open Source Contributions (Rocket.Chat)
-- Actively exploring and contributing to a **large-scale production codebase**
-- Fixing bugs, improving components, and understanding system design
-- Learning professional workflows: issues, PRs, reviews, discussions
-
+### 📫 Reach Me At
+- 📧 Email: **theshivammishra10@gmail.com**
+- 🐦 X (Twitter): https://x.com/shivamM97963756
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-mishra-777026280/
+- 🧠 LeetCode: https://leetcode.com/u/theshivammishra10/
+- ⚔️ Codeforces: https://codeforces.com/profile/Shiv_am__08
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam30Mishra&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam30Mishra&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam30Mishra&layout=compact&theme=tokyonight" height="140"/>
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://x.com/shivamM97963756" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/shivam-mishra-777026280/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/theshivammishra10/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 🎯 Goals (Short-Term)
-- Make **meaningful open-source contributions**
-- Build **production-quality web projects**
-- Improve problem-solving speed and consistency
-- Prepare for **GSoC and internship opportunities**
+## 🛠️ Languages & Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,nextjs,nodejs,express,mongodb,sql,html,css,tailwind,git,github"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Connect
-- **GitHub:** https://github.com/Shivam30Mishra  
-- **LinkedIn:** https://www.linkedin.com/in/shivam-mishra-777026280  
-- **Email:** shivammishras1011@gmail.com  
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam30Mishra&layout=compact&theme=highcontrast" height="180"/>
+</p>
 
 ---
 
-⭐ *Focused on skill depth, code quality, and long-term growth.*
+⭐ *I believe strong fundamentals + consistent execution beat hype stacks every time.*
