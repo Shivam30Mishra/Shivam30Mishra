@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=280&section=header&text=SHIVAM%20MISHRA&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=A78BFA&strokeWidth=2&desc=Software%20Engineer%20%C2%B7%20Serverless%20Systems%20%C2%B7%20AI%20%26%20Automation&descSize=19&descAlignY=63&descAlign=50&animation=twinkling" width="100%" alt="Shivam Mishra - Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=280&section=header&text=SHIVAM%20MISHRA&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=40&stroke=A78BFA&strokeWidth=2&desc=Software%20Engineer%20%C2%B7%20Serverless%20Systems%20%C2%B7%20AI%20and%20Automation&descSize=19&descAlignY=63&descAlign=50&animation=twinkling" width="100%" alt="Shivam Mishra - Software Engineer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%24+role+%E2%86%92+Software+Engineer+Intern+%40+Hivon+Automations;%24+stack+%E2%86%92+Next.js+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Deno+%C2%B7+n8n;%24+focus+%E2%86%92+Serverless+%C2%B7+ERP+Systems+%C2%B7+AI+Pipelines;%24+reads+%E2%86%92+Books+on+Artificial+Intelligence;%24+mission+%E2%86%92+Build+fast.+Scale+clean.+Ship+smart.;%24+status+%E2%86%92+Open+to+opportunities+%F0%9F%9F%A2" alt="typing animation"/>
@@ -58,7 +58,7 @@ I specialise in **Next.js · TypeScript · Supabase (PostgreSQL) · Deno Edge Fu
  ┌────────────────────────────────────────────────────────────────────┐
  │  shivam@dev  ~  neofetch                                           │
  ├────────────────────────────────────────────────────────────────────┤
- │  Role         Software Engineer Intern                                   │
+ │  Role         Software Engineer Intern                             │
  │  Company      Hivon Automations LLP                                │
  │  Education    B.Tech CSE · Vellore Institute of Technology, Bhopal │
  │  Graduation   2027                                                 │
